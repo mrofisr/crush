@@ -1,2 +1,2 @@
-# Rust Project
-Init project to learn Rust
+# Crush Project
+Caddy but made by Rust
