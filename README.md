@@ -1,2 +1,2 @@
-# rust-project
+# Rust Project
 Init project to learn Rust
